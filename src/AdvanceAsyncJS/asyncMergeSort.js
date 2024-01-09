@@ -1,3 +1,27 @@
+
+/** IMPORTANT NOTE!!!!
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * The following code is entirely written by ChatGPT!!!
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
 // Asynchronous helper function to simulate a delay in comparison
 async function asyncCompare(a, b) {
     return new Promise(resolve => {

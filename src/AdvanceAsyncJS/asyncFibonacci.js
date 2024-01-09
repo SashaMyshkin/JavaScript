@@ -5,7 +5,7 @@ async function asyncFibonacci(n) {
     if (n < 0) throw 'Invalid input: n should be a non-negative integer';
     if (n <= 1) return n;
 
-    await delay(1000); // Delaying for 1 second
+    await delay(1000);
 
     
     let prev = 0, next = 1;
