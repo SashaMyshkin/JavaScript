@@ -16,5 +16,4 @@ async function readFiles(filePaths) {
     }
 }
 
-// Example usage with an array of file paths
 readFiles(['./file1.txt', './file2.txt', './file3.txt']);
